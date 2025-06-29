@@ -21,3 +21,21 @@ ________________________________________________________________________________
 This suggests the Excel file contains multiple sheets with similar data structures that need to be combined. Importing at the folder level allows Power Query to process all the files/sheets at once.
 The video then reviews the content of the Excel workbook [04:33].
 This step is crucial for understanding the structure of the data, identifying any inconsistencies, and planning the subsequent transformation steps. It involves looking at the columns, data types, and sample values.
+
+
+## Table of Content
+| Name      | Age | Role        |
+|:---------:|:---:|:-----------:|
+| Christian | 25  | Developer   |
+| Fish      | 21  | Analyst   |
+| Christian | 25  | Developer   |
+| Christian | 25  | Developer   |
+
+
+|FirstName| LastName|	Age |Gender|
+|:-------:|:-------:|:-----:|:------:|
+|Chris	|Nwosu      |	31  |	male|
+|Fish	|Bassey     |	37  |male|
+|joy	|Gabriel    |	21  |	Female|
+
+
