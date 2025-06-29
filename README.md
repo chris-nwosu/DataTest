@@ -39,3 +39,5 @@ This step is crucial for understanding the structure of the data, identifying an
 |joy	|Gabriel    |	21  |	Female|
 
 
+![Screenshot 2025-06-29 180251](https://github.com/user-attachments/assets/9445cc12-b6fb-407c-a561-fb7e05afc324)
+
